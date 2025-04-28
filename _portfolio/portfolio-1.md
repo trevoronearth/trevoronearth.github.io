@@ -1,6 +1,6 @@
 ---
 title: "In Nepal! (test)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "On EBC trek, selfie with a mule! (Say cheese!)<br/><img src='/images/me in nepal.jpg'>"
 collection: portfolio
 ---
 
