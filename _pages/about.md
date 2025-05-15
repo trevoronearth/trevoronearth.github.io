@@ -11,8 +11,8 @@ Hey all! My name is Trevor and I am currently studying my Masters of Applied Sci
 
 How did I get here?
 ======
-Growing up, I was always curious about 
-In society now, it feels very easy to fall out of the love for curiosity, by making habituous judgements, and believing we already understand everything that is happening. I want to continue fostering my innate love for curiosity, and always be open to new ideas, opportunities, and people!
+Growing up, I was always curious about why the world behaved in the way it did. Such as when we'd play wall ball in elementary school, how would the ball come back in the way it did? Or whenever I was bored in the car, I'd think about why can't all the cars speed up at the same time in traffic (I still think about this), and are cars actually turning the world around like a treadmill (This was mostly wrong)? Overall, I loved to think about questions like this, and my Dad always loved to answer! I grew up really enjoying math and puzzles, which may have been an early indicator of me becoming an engineer.
+Today, it feels very easy to fall out of the love for curiosity, by making habituous judgements, and believing we already understand everything that is happening. I want to continue fostering my child-like innate love for curiosity, and always be open to new ideas, opportunities, and people!
 
 Hobbies
 ======
