@@ -17,4 +17,4 @@ Today, it feels very easy to fall out of the love for curiosity, by making habit
 Hobbies
 ======
 Outside of school, I love to hike, climb, cook, be outside, slackline, read, meditate, and trying new things!
-Although, my main joys come from relaxing, choosing kindness, and being around the people I love!
+Although, my main joys come from relaxing, choosing kindness, and being around the people I love.
