@@ -7,8 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+Research
+======
 
-{% for post in site.expereince %}
-  {% include archive-single.html %}
-{% endfor %}
+Engineering
+======
 
+Teaching
+======
+
+Other
+======
