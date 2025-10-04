@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MASc in Sustainable Energy Engineering, Simon Fraser University, 2024-Present
+* Exchange Program in Applied Physics, Luleå University of Technology, 2022
+* B.S. in Engineering Physics, Colorado School of Mines, 2020-2024
 
 Work experience
 ======
