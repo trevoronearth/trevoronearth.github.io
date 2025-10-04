@@ -15,6 +15,15 @@ Education
 * Exchange Program in Applied Physics, Luleå University of Technology, 2022
 * B.S. in Engineering Physics, Colorado School of Mines, 2020-2024
 
+Coursework
+======
+* Electrical - Analog Electronics, Digital Electronics
+* Physics - Thermal and Statistical Mechanics, Electromagnetism, Nuclear Physics Lab, Atomic and Molecular Physics, Quantum Mechanics
+* Material Science - Chemistry I & II, Intro to Nanoscience, Material Design, Accelerated Material Discovery for Energy Conversion
+* Computer Science - Python-Based Computing, Intro to Linux OS, Advanced Machine Learning
+* Sustainable Engineering - Solar Energy Engineering, Intro to Nuclear Engineering, Sustainable Energy Systems, Fuel Cell Systems
+* Design - Community-Based Research, Design I & II, Senior Design Practice, Technical Communication Skills
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
