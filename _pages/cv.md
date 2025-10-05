@@ -26,17 +26,25 @@ Coursework
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Industry
+  * Technology Integration Intern at Solid Power                                                                     
+    * Investigated the advancement of new generation solid state electrolytes by building test cells, then analyzing cycle life and rate capability, to better understand the effect of changes in electrolyte          formulation on cell performance.
+    * Utilized characterization techniques such as EIS (Electrochemical Impedance Spectroscopy), Nanoindentation, and SEM (Scanning Electron Microscope).
+    * Programmed Python scripts using Pandas and Matplotlib to automate data collection and analysis for more efficient and effective data representation.
+    * Performed troubleshooting for failing cells by using first principles thinking and the scientific method.
 
-* Fall 2015: Research Assistant
+
+* Research
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Teaching
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+ 
+* Other
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
