@@ -26,7 +26,13 @@ Coursework
 
 Work experience
 ======
-* **Industry**
+* **Industrial/Research**
+  * Research Assistant at Simon Fraser University (FCREL/Greenlight Innovations), September 2024 - Current
+    * Conducting literature review on in-situ electrochemical testing techniques to find paths of improvement and scalability for PEM fuel cell and water electrolyzer end-of-line testing.
+    * Manufacturing cells from scratch to be used for testing.
+    * Using Python to test different fitting methods for accuracy improvement.
+    * Learning how to manage time efficiently, design unique and effective experiments, and embrace scientific uncertainty.
+
   * Technology Integration Intern at Solid Power, May 2024 - August 2024                                                                  
     * Investigated the advancement of new generation solid state electrolytes by building test cells, then analyzing cycle life and rate capability, to better understand the effect of changes in electrolyte          formulation on cell performance.
     * Utilized characterization techniques such as EIS (Electrochemical Impedance Spectroscopy), Nanoindentation, and SEM (Scanning Electron Microscope).
