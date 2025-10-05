@@ -66,13 +66,10 @@ Work experience
     * Ensured students understood the real-world applications, such as solar cell research, semiconductors, mirrors, and etc.
     * Gained experience in communicating and teaching complex, scientific theories.
 
-
-
-
 * **Other**
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Busser at Egg&I Restaurant, 2017 - 2020
+  * Cashier/Stocker at Natural Grocers, 2021 - 2022
+  * Barista at Starbucks, July 2023 - Dec 2023
   
 Skills
 ======
