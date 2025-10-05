@@ -70,7 +70,11 @@ Work experience
   * Busser at Egg&I Restaurant, 2017 - 2020
   * Cashier/Stocker at Natural Grocers, 2021 - 2022
   * Barista at Starbucks, July 2023 - Dec 2023
-  
+ 
+Projects
+======
+
+
 Skills
 ======
 * Skill 1
@@ -92,11 +96,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
