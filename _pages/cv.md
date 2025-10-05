@@ -38,11 +38,13 @@ Work experience
     * Utilized characterization techniques such as EIS (Electrochemical Impedance Spectroscopy), Nanoindentation, and SEM (Scanning Electron Microscope).
     * Programmed Python scripts using Pandas and Matplotlib to automate data collection and analysis for more efficient and effective data representation.
     * Performed troubleshooting for failing cells by using first principles thinking and the scientific method.
+ 
+  * Undergraduate Researcher at Colorado School of Mines, January 2024 - May 2024
+    * Studied basics of electrochemistry and rechargeable battery technology.
+    * Used Python library called Pymatgen to create and manipulate molecular structures.
+    * Queried data from Materials Project database to find potential molecular structures to be used as a cathode.
+    * Trained on XRD experimentation to compare theoretical and experimental data.
 
-* **Research**
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
 * **Teaching**
   * GitHub University
