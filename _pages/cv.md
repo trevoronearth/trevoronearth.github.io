@@ -78,10 +78,13 @@ Projects
 Skills
 ======
 * Computing -
-  * Python (Scipy, Numpy, Pandas, Pymatgen, ASE, Quantum Espresso, Pytorch), Javascript, C++, Jupyter Notebook, Linux
-  * Excel, Powerpoint, Latex
-  * SolidWorks, LabView, Mathematica, Machine Learning
-* Laboratory - 
+  * Coding Languages - Python (Scipy, Numpy, Pandas, Pymatgen, ASE, Quantum Espresso, Pytorch), Javascript, C++, Jupyter Notebook, Linux
+  * Communication Software - Excel, Powerpoint, Latex
+  * Engineering Software - SolidWorks, LabView, Mathematica, Machine Learning
+* Laboratory -
+  * Manufacturing/engineering - Thin-Film Deposition (evaporation, ion-sputtering), Die and Pouch cells, glove-box handling, Electronics, Vacumum Systems, MEA manufacturing, Machining, 
+  * In Situ Characterization - Impedance Spectroscopy (EIS, Current Interrupt), 
+  * Ex Situ Characterization - 
 * Personal/Communication
 
 Publications
