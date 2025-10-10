@@ -109,4 +109,16 @@ Service and leadership
   * Volunteered at the Khumbu Climbing Center, which is an organization dedicated to training high-altitude workers on safety in the mountains.
   * Wrote a research report on the current state of renewable energy in Nepal, along with potential solutions to increase sustainable energy for the future of the country.
   * Completed the trek to Everest Base Camp via Cho La pass (170 total kilometers of hiking with highest elevation being 5,644 meters).
+ 
+* Hike for Help Club Manager of Fundraising, January 2023 - May 2024
+  * Organizing fundraising events for the club. Fundraising helps to raise awareness and send students to Nepal for service trips. 
+  * Helping in planning service trips to Nepal.
+  * Collaborating with the founder of the NGO, Hike 4 Help, to develop potential projects for future trips.
+
+* UNITE Camp 2030 Ambassador, September 2023
+  * Attended Camp 2030 in New York City, an opportunity sponsored by the UN to get together with other world-wide changemakers and innovate solutions for the 2030 UN sustainability goals. 
+  * Researched extensively into the problem of lack of clean cooking fuels in developing parts of the world.
+  * Proposed solution to implement biogas digesters to rural communities in Tanzania to reduce negative effects from lack of clean cooking fuels and pitched solution to a set of judges.
+  * Received individual award for demonstrating the value of Action at the week-long camp.
+
 
