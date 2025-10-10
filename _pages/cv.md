@@ -77,12 +77,12 @@ Projects
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing -
+  * Python (Scipy, Numpy, Pandas, Pymatgen, ASE, Quantum Espresso, Pytorch), Javascript, C++, Jupyter Notebook, Linux
+  * Excel, Powerpoint, Latex
+  * SolidWorks, LabView, Mathematica, Machine Learning
+* Laboratory - 
+* Personal/Communication
 
 Publications
 ======
