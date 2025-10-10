@@ -83,7 +83,7 @@ Skills
   * Engineering Software - SolidWorks, LabView, Mathematica, Machine Learning
 * Laboratory -
   * Manufacturing/engineering - Thin-Film Deposition (Evaporation, Ion-sputtering), Die and Pouch Cells, Glove-Box Handling, Electronics, Vacumum Systems, MEA Manufacturing, Machining 
-  * Electronic Characterization - Impedance Spectroscopy (EIS, Current Interrupt, I-V Curve, CV), Cycle Life Testing
+  * Electrochemical Characterization - Impedance Spectroscopy (EIS, Current Interrupt, I-V Curve, CV), Cycle Life Testing
   * Materials Characterization - SEM (Scanning Electron Microscope), Nanoindentation, Gamma Spectroscopy, Ramen Spectroscopy, Rheology, Ellipsometry
 * Personal -
   * Communication - Literature Review, Technical Writing, Presenting, Teaching, Stakeholder/Community Engagement, 
