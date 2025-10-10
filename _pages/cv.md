@@ -82,10 +82,12 @@ Skills
   * Communication Software - Excel, Powerpoint, Latex
   * Engineering Software - SolidWorks, LabView, Mathematica, Machine Learning
 * Laboratory -
-  * Manufacturing/engineering - Thin-Film Deposition (evaporation, ion-sputtering), Die and Pouch cells, glove-box handling, Electronics, Vacumum Systems, MEA manufacturing, Machining, 
-  * In Situ Characterization - Impedance Spectroscopy (EIS, Current Interrupt), 
-  * Ex Situ Characterization - 
-* Personal/Communication
+  * Manufacturing/engineering - Thin-Film Deposition (Evaporation, Ion-sputtering), Die and Pouch Cells, Glove-Box Handling, Electronics, Vacumum Systems, MEA Manufacturing, Machining 
+  * Electronic Characterization - Impedance Spectroscopy (EIS, Current Interrupt, I-V Curve, CV), Cycle Life Testing
+  * Materials Characterization - SEM (Scanning Electron Microscope), Nanoindentation, Gamma Spectroscopy, Ramen Spectroscopy, Rheology, Ellipsometry
+* Personal -
+  * Communication - Literature Review, Technical Writing, Presenting, Teaching, Stakeholder/Community Engagement, 
+  * Teamwork - Empathy/Compassion, Cultural Awareness, Curiosity/Willingness to Learn
 
 Publications
 ======
