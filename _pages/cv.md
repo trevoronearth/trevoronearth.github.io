@@ -87,7 +87,7 @@ Skills
   * Materials Characterization - SEM (Scanning Electron Microscope), Nanoindentation, Gamma Spectroscopy, Ramen Spectroscopy, Rheology, Ellipsometry
 * Personal -
   * Communication - Literature Review, Technical Writing, Presenting, Teaching, Stakeholder/Community Engagement, 
-  * Teamwork - Empathy/Compassion, Cultural Awareness, Curiosity/Willingness to Learn
+  * Positive Attributes - Empathy/Compassion, Cultural Awareness, Curiosity/Willingness to Learn, Optimism
 
 Publications
 ======
@@ -104,4 +104,9 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Hike for Help Service Trip, December 15th, 2023 - January 10th, 2024
+  * Worked on a project to bring easier access to clean water for a rural village, along with protecting their cultural heritage.
+  * Volunteered at the Khumbu Climbing Center, which is an organization dedicated to training high-altitude workers on safety in the mountains.
+  * Wrote a research report on the current state of renewable energy in Nepal, along with potential solutions to increase sustainable energy for the future of the country.
+  * Completed the trek to Everest Base Camp via Cho La pass (170 total kilometers of hiking with highest elevation being 5,644 meters).
+
