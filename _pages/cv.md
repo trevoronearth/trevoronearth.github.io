@@ -70,9 +70,6 @@ Work experience
   * Busser at Egg&I Restaurant, 2017 - 2020
   * Cashier/Stocker at Natural Grocers, 2021 - 2022
   * Barista at Starbucks, July 2023 - Dec 2023
- 
-Projects
-======
 
 
 Skills
@@ -86,20 +83,8 @@ Skills
   * Electrochemical Characterization - Impedance Spectroscopy (EIS, Current Interrupt, I-V Curve, CV), Cycle Life Testing
   * Materials Characterization - SEM (Scanning Electron Microscope), Nanoindentation, Gamma Spectroscopy, Ramen Spectroscopy, Rheology, Ellipsometry
 * Personal -
-  * Communication - Literature Review, Technical Writing, Presenting, Teaching, Stakeholder/Community Engagement, 
+  * Communication - Literature Review, Technical Writing, Presenting, Teaching, Stakeholder/Community Engagement
   * Positive Attributes - Empathy/Compassion, Cultural Awareness, Curiosity/Willingness to Learn, Optimism
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
   
 Service and leadership
