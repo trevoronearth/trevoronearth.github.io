@@ -20,6 +20,6 @@ Quote Display
 <div style="text-align: center; margin: 20px 0;">
   <figure style="display: inline-block; border: 2px solid #f0f0f0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-family: 'Georgia', serif; font-size: 24px; font-style: italic;">
     <blockquote style="margin: 0; font-weight: bold;">"It is my conviction that there is no way to peace — peace is the way"</blockquote>
-    <figcaption style="margin-top: 10px; font-size: 16px; opacity: 0.8;">A cool quote display</figcaption>
+    <figcaption style="margin-top: 10px; font-size: 16px; opacity: 0.8;">-Thich Nhat Hahn</figcaption>
   </figure>
 </div>
