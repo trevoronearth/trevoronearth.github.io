@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "maps"
+    url: /maps/
+
   - title: "Blog Posts"
     url: /year-archive/
