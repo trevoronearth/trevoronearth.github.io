@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_beb6d115339eaa3be193bd690d67e044 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_beb6d115339eaa3be193bd690d67e044" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_beb6d115339eaa3be193bd690d67e044 = L.map(
+                "map_beb6d115339eaa3be193bd690d67e044",
+                {
+                    center: [39.7392, -104.9903],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_12dcde1fe173b802c6c77beb4fc4de68 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_12dcde1fe173b802c6c77beb4fc4de68.addTo(map_beb6d115339eaa3be193bd690d67e044);
+        
+    
+            var marker_07f0d34c2afb8a5486ac74d6dbc8994b = L.marker(
+                [39.7392, -104.9903],
+                {
+}
+            ).addTo(map_beb6d115339eaa3be193bd690d67e044);
+        
+    
+        var popup_918f773c6b58621877676ef526e8af5b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c02724d32699b8e4ac3583451f2581b2 = $(`<div id="html_c02724d32699b8e4ac3583451f2581b2" style="width: 100.0%; height: 100.0%;">Downtown Denver</div>`)[0];
+                popup_918f773c6b58621877676ef526e8af5b.setContent(html_c02724d32699b8e4ac3583451f2581b2);
+            
+        
+
+        marker_07f0d34c2afb8a5486ac74d6dbc8994b.bindPopup(popup_918f773c6b58621877676ef526e8af5b)
+        ;
+
+        
+    
+    
+            marker_07f0d34c2afb8a5486ac74d6dbc8994b.bindTooltip(
+                `<div>
+                     Click me!
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_36b91ae1589dafe1cfc49b84cb8ccddc = L.marker(
+                [39.8561, -104.6737],
+                {
+}
+            ).addTo(map_beb6d115339eaa3be193bd690d67e044);
+        
+    
+            var icon_afbbc0a7040a369c29413835cdb7b045 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "plane",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_937ad10f474966e9c6188f0603038adf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_89e326d0e7e74d651c26e38bded55caf = $(`<div id="html_89e326d0e7e74d651c26e38bded55caf" style="width: 100.0%; height: 100.0%;">Denver International Airport</div>`)[0];
+                popup_937ad10f474966e9c6188f0603038adf.setContent(html_89e326d0e7e74d651c26e38bded55caf);
+            
+        
+
+        marker_36b91ae1589dafe1cfc49b84cb8ccddc.bindPopup(popup_937ad10f474966e9c6188f0603038adf)
+        ;
+
+        
+    
+    
+                marker_36b91ae1589dafe1cfc49b84cb8ccddc.setIcon(icon_afbbc0a7040a369c29413835cdb7b045);
+            
+</script>
+</html>
